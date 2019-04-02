@@ -1,0 +1,19 @@
+['used-cardealer'] = {
+		['Job'] = 'none',
+		['Enter'] = { 
+			['x'] = 1224.65, 
+			['y'] = 2728.74, 
+			['z'] = 37.01,
+			['Information'] = 'Press ~r~[E]~s~ to enter ~y~the used dealership' 
+		},
+	
+	    ['Exit'] = {
+			['x'] = 1224.19, 
+			['y'] = 2729.91, 
+			['z'] = 37.49, 
+			['Information'] = 'Press ~r~[E]~s~ to leave ~y~the used dealership' 
+	    }
+   	},
+
+	}
+
